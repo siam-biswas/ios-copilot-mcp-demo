@@ -48,6 +48,8 @@ The following steps are automated using MCP:
 
 ---
 
+https://github.com/user-attachments/assets/6aeecdbd-d3a5-487a-9564-212269f6d158
+
 ## References
 - [iOS Simulator MCP Server GitHub](https://github.com/joshuayoes/ios-simulator-mcp)
 
